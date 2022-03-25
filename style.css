@@ -320,16 +320,12 @@ header {
 }
 
 .row-email input {
-    width: 100%;
+    width: 66%;
     padding: 1.1rem;
     background-color: white;
     border-radius: 35px;
     border: transparent;
     position: relative;
-}
-
-label{
-    width: 66%;
 }
 
 .row-email .button-email {
